@@ -1,0 +1,15 @@
+# Credentials and local runtime state
+.env
+.env.*
+!.env.example
+.git-credentials
+.codex-remote-plugin-install.json
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+*.db
+*.sqlite
+*.sqlite3
+data/
+backups/

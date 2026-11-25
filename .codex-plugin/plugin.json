@@ -1,0 +1,19 @@
+{
+  "apps": "./.app.json",
+  "author": {
+    "name": "App developer"
+  },
+  "description": "\u7528 AI \u628a\u66fe\u7ecf\u7684\u60f3\u6cd5\u53d8\u6210\u53ef\u5b9e\u73b0\u7684\u751f\u6d3b\uff1a\u6536\u96c6\u3001\u7b5b\u9009\u3001\u542f\u52a8\u4e0e\u6301\u7eed\u590d\u76d8\uff0c100 \u4ef6\u662f\u8d77\u70b9\u3002",
+  "interface": {
+    "capabilities": [],
+    "category": "Other",
+    "defaultPrompt": null,
+    "developerName": "App developer",
+    "displayName": "\u4eba\u751f\u53ef\u80fd \u00b7 AI 100+ \u4eba\u751f\u8ba1\u5212",
+    "longDescription": "\u7528 AI \u628a\u66fe\u7ecf\u7684\u60f3\u6cd5\u53d8\u6210\u53ef\u5b9e\u73b0\u7684\u751f\u6d3b\uff1a\u6536\u96c6\u3001\u7b5b\u9009\u3001\u542f\u52a8\u4e0e\u6301\u7eed\u590d\u76d8\uff0c100 \u4ef6\u662f\u8d77\u70b9\u3002",
+    "shortDescription": "\u7528 AI \u628a\u66fe\u7ecf\u7684\u60f3\u6cd5\u53d8\u6210\u53ef\u5b9e\u73b0\u7684\u751f\u6d3b\uff1a\u6536\u96c6\u3001\u7b5b\u9009\u3001\u542f\u52a8\u4e0e\u6301\u7eed\u590d\u76d8\uff0c100 \u4ef6\u662f\u8d77\u70b9\u3002",
+    "websiteURL": "https://life-ai-100-journey.lxbj.chatgpt.site"
+  },
+  "name": "dev-34754417c6ac8191ad74d53cf1344fed",
+  "version": "1.0.0"
+}
