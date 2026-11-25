@@ -6,7 +6,7 @@
 
 ## 立即使用
 
-1. 点击 **Code → Download ZIP**，或使用 [下载完整包](https://github.com/lxrhillboy/life-ai-100-plugin/archive/refs/heads/main.zip)。
+1. [下载离线运行包](https://github.com/lxrhillboy/life-ai-100-plugin/raw/refs/heads/main/downloads/Life-AI-100-Offline-v2.0.0.zip)，或到 [下载目录](downloads/) 点击 ZIP 文件的下载按钮。开发者也可使用 **Code → Download ZIP** 获取完整源码。
 2. **先解压** ZIP，打开解压后的文件夹。
 3. 双击 **`index.html`**。如果默认用编辑器打开，请右键选择浏览器。
 4. 点击“新建目标”，开始管理自己的计划。
@@ -46,6 +46,7 @@
 | --- | --- |
 | `index.html` | 完整离线应用，也是全部应用源码 |
 | `START-HERE.txt` | 中文启动说明 |
+| `downloads/` | 打包好的独立运行版与 SHA-256 校验值 |
 | `docs/USAGE.md` | 使用、备份和常见问题 |
 | `tests/run-tests.cjs` | 开发者逻辑验证；运行应用无需执行 |
 | `integrations/original-remote/` | 原 v1 远程 ChatGPT 插件配置，仅供参考 |
